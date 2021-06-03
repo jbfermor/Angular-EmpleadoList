@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "Angular-EmpleadoList"
+  "defaultProject": "Angular-EmpleadoList",
+  "cli": {
+    "analytics": "f87552e7-e1f5-4f98-a165-b5b6414ae524"
+  }
 }
